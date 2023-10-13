@@ -15,3 +15,7 @@ Chiteadas is a page that gets movie data from [TMDB API](https://www.themoviedb.
 - axios
 - react-youtube
 - heroicons
+
+## Deploy
+
+- Deploy: [Vercel](https://chiteadas.vercel.app/)
