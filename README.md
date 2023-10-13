@@ -1,6 +1,6 @@
 # Chiteadas
 
-Chiteadas is a page that gets movie data from [TMDB API](https://www.themoviedb.org) and list the movies, it also allows to see the trailers of the movies (in case you have them).
+Chiteadas is a page that gets movie data from [TMDB API](https://www.themoviedb.org) and list the movies, it also allows to see the trailers of the movies (in case it has them).
 
 ## Tech Stack:
 
